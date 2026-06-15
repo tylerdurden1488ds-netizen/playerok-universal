@@ -1,5 +1,2 @@
-aiogram>=3.0.0
-requests
-python-dotenv
-aiohttp
-pydantic
+aiogram==3.22.0
+python-dotenv==1.1.1
